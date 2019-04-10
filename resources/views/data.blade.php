@@ -47,7 +47,7 @@ body { background-color: #fafafa; }
         <a href="{{route('index')}}" class="btn4">Home</a>
       </div>
 
-
+<h1></h1>
       <table class="table" id="example">
    <thead class="thead-dark">
      <tr>
